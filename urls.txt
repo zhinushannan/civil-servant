@@ -7,6 +7,9 @@ https://serve-the-people.kwcoder.club/categories/申论/
 https://serve-the-people.kwcoder.club/categories/申论/单一题/
 https://serve-the-people.kwcoder.club/categories/申论/综合题/
 https://serve-the-people.kwcoder.club/categories/时政/
+https://serve-the-people.kwcoder.club/categories/行测/
+https://serve-the-people.kwcoder.club/categories/行测/言语/
+https://serve-the-people.kwcoder.club/categories/行测/言语/词汇积累/
 
 https://serve-the-people.kwcoder.club/tags/
 https://serve-the-people.kwcoder.club/tags/听课总结/
@@ -30,3 +33,6 @@ https://serve-the-people.kwcoder.club/2022/04/01/申论-第三章-综合题-3语
 https://serve-the-people.kwcoder.club/2022/04/07/申论-刷题-摘抄-01/
 https://serve-the-people.kwcoder.club/2022/04/07/申论-刷题-摘抄-02/
 https://serve-the-people.kwcoder.club/2022/04/07/申论-刷题-摘抄-03/
+
+https://serve-the-people.kwcoder.club/2022/04/18/行测-言语-词汇积累-1-词汇积累一
+https://serve-the-people.kwcoder.club/2022/04/18/行测-言语-词汇积累-2-词汇积累二
