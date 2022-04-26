@@ -32,6 +32,10 @@ https://serve-the-people.kwcoder.club/2022/04/01/申论-第三章-综合题-3语
 
 https://serve-the-people.kwcoder.club/2022/04/07/申论-刷题-摘抄-01/
 https://serve-the-people.kwcoder.club/2022/04/07/申论-刷题-摘抄-02/
-https://serve-the-people.kwcoder.club/2022/04/07/申论-刷题-摘抄-03/
 
-https://serve-the-people.kwcoder.club/2022/04/18/行测-言语-词汇积累-1-词汇积累
+https://serve-the-people.kwcoder.club/2022/04/18/行测-言语-词汇积累-1-词汇积累/
+https://serve-the-people.kwcoder.club/2022/04/18/行测-言语-词汇积累-2-刷题总结/
+https://serve-the-people.kwcoder.club/2022/04/18/行测-言语-词汇积累-3-语句积累/
+
+
+http://localhost:4000/2022/04/21/随笔-随笔/
