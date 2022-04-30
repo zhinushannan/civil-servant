@@ -23,6 +23,11 @@ https://serve-the-people.kwcoder.club/images/icon/icon.png
 https://serve-the-people.kwcoder.club/images/申论/第四章-公文写作/1-1格式示意图.png
 https://serve-the-people.kwcoder.club/images/申论/第四章-公文写作/1-2举例1.png
 https://serve-the-people.kwcoder.club/images/申论/第四章-公文写作/1-3举例2.png
+https://serve-the-people.kwcoder.club/images/申论/第四章-公文写作/2-1方案类写作框架.png
+https://serve-the-people.kwcoder.club/images/申论/第四章-公文写作/2-2方案类写作案例.png
+https://serve-the-people.kwcoder.club/images/申论/第四章-公文写作/2-3总结类写作框架.png
+https://serve-the-people.kwcoder.club/images/申论/第四章-公文写作/2-4总结类写作范例-1.png
+https://serve-the-people.kwcoder.club/images/申论/第四章-公文写作/2-4总结类写作范例-2.png
 
 https://serve-the-people.kwcoder.club/2022/01/31/时政-时政-2022-01/
 https://serve-the-people.kwcoder.club/2022/03/05/时政-两会-两会-科技/
@@ -36,6 +41,8 @@ https://serve-the-people.kwcoder.club/2022/04/01/申论-第三章-综合题-1语
 https://serve-the-people.kwcoder.club/2022/04/01/申论-第三章-综合题-2语句解释题【例2】/
 https://serve-the-people.kwcoder.club/2022/04/01/申论-第三章-综合题-3语句解释题【例3】/
 https://serve-the-people.kwcoder.club/2022/04/28/申论-第四章-公文写作-1-格式/
+https://serve-the-people.kwcoder.club/2022/04/28/申论-第四章-公文写作-2-分类/
+https://serve-the-people.kwcoder.club/2022/04/28/申论-第四章-公文写作-3-真题演练/
 
 https://serve-the-people.kwcoder.club/2022/04/07/申论-刷题-摘抄/
 
